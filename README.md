@@ -5,10 +5,10 @@ The Price Predictor Web App is a powerful tool designed to gather and analyze pr
 
 ## Features
 - **Multi-Source Data Collection**: The app aggregates pricing information from the following websites:
-  1. [Website 1](#)
-  2. [Website 2](#)
-  3. [Website 3](#)
-  4. [Website 4](#)
+  1. [Repuestos Coroca](https://www.repuestoscoroca.com/)
+  2. [Autor Repuestos Maracars](https://autorrepuestosmaracars.cl/)
+  3. [Bolome y Ventas](https://bolomeyventas.cl/)
+  4. [Repuestos CyR](https://repuestoscyr.cl/)
 - **Price Prediction**: Using advanced predictive models, the app forecasts price changes, helping users identify the best time to make a purchase or investment.
 - **User-Friendly Interface**: A clean and intuitive interface allows users to easily input data, view price trends, and access predictions.
 
